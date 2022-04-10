@@ -1,0 +1,7 @@
+export const cartConstants = {
+  ADD_TO_CART: 'ADD_TO_CART',
+  REMOVE_CART: 'REMOVE_CART',
+  INCREASE: 'INCREASE',
+  DECREASE: 'DECREASE',
+  EMPTY_CART: 'EMPTY_CART',
+};
